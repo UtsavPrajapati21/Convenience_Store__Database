@@ -12,14 +12,13 @@ This project highlights strong capabilities in:
 * Inventory & employee management logic
 * Real-world database workflow automation
 
-
 ## **Project Structure**
 
 Convenience_Store__Database/
 │
 ├── schema.sql
 ├── queries_master.sql
-├── ERD.pdf        
+├── ERD.pdf
 │
 ├── Forms Screenshots/
 ├── Reports Screenshots/
@@ -27,19 +26,18 @@ Convenience_Store__Database/
 └── Macros Screenshots/
 
 
-
 ## **Entity Relationship Diagram (ERD)**
 
 The complete ERD is included in PDF format:
 
-📄 **[Download ERD.pdf](./ERD.pdf)**
+**[ERD.pdf](./ERD.pdf)**
 
 
 ## **Database Schema**
 
 The full SQL schema including table definitions, primary keys, and foreign keys is available in:
 
-📄 **schema.sql**
+**[schema.sql](./schema.sql)**
 
 This contains:
 
@@ -54,7 +52,7 @@ This contains:
 
 All SQL queries are stored in:
 
-**queries_master.sql**
+**[queries_master.sql](./queries_master.sql)**
 
 Includes:
 
@@ -71,7 +69,7 @@ Includes:
 
 All form screenshots are stored in:
 
-**Forms Screenshots**
+**[Forms Screenshots](./Forms_Screeenshots)**
 
 Forms include:
 
