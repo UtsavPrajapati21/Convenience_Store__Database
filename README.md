@@ -1,5 +1,6 @@
-Convenience Store Database System
-This project is a complete Microsoft Access–based database system designed to manage core operations for a convenience store.
+# Convenience Store Database System
+  This project is a complete Microsoft Access–based database system designed to manage core operations for a convenience store.
+
 It includes:
 •	A fully designed relational schema
 •	A working ERD
