@@ -69,7 +69,7 @@ Includes:
 
 All form screenshots are stored in:
 
-**[Forms Screenshots](./Forms_Screeenshots)**
+**[Forms Screenshots](./Forms Screenshots)**
 
 Forms include:
 
