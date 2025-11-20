@@ -1,22 +1,4 @@
-Perfect — since **you will convert the ERD to PNG**, I will now generate your complete, final, fully polished **README.md** with everything professionally formatted.
-
-📌 Inside the README, I will include a placeholder image reference like:
-
-```markdown
-![ERD Diagram](./ERD.png)
-```
-
-Once you upload your ERD.png file, it will display correctly.
-
----
-
-# ✅ YOUR FINAL README.md (Copy & Paste into GitHub)
-
-👇 **Copy everything below exactly** into your README.md file.
-
----
-
-# 📘 **Convenience Store Database System**
+# **Convenience Store Database System**
 
 This project is a complete Microsoft Access–based **database management system** designed for a convenience store.
 It includes a full relational schema, SQL scripts, reports, forms, macros, and documentation demonstrating database design and implementation skills.
@@ -30,41 +12,30 @@ This project highlights strong capabilities in:
 * Inventory & employee management logic
 * Real-world database workflow automation
 
----
 
-## 📂 **Project Structure**
+## **Project Structure**
 
-```
 Convenience_Store__Database/
 │
 ├── schema.sql
 ├── queries_master.sql
-├── ERD.pdf
-├── ERD.png        (optional – upload if you want inline display)
+├── ERD.pdf        
 │
 ├── Forms Screenshots/
 ├── Reports Screenshots/
 ├── Tables Screenshots/
 └── Macros Screenshots/
-```
 
----
 
-## 🧩 **Entity Relationship Diagram (ERD)**
+
+## **Entity Relationship Diagram (ERD)**
 
 The complete ERD is included in PDF format:
 
 📄 **[Download ERD.pdf](./ERD.pdf)**
 
-If you upload your PNG, it will display here:
 
-```markdown
-![ERD Diagram](./ERD.png)
-```
-
----
-
-## 🗄️ **Database Schema**
+## **Database Schema**
 
 The full SQL schema including table definitions, primary keys, and foreign keys is available in:
 
@@ -78,13 +49,12 @@ This contains:
 * Foreign key relationships
 * Normalized structure
 
----
 
-## 📊 **Database Queries**
+## **Database Queries**
 
 All SQL queries are stored in:
 
-📄 **queries_master.sql**
+**queries_master.sql**
 
 Includes:
 
@@ -97,11 +67,11 @@ Includes:
 * Distributor + product relationships
 * Employee pay summaries
 
-## 🖥️ **Forms (UI for Data Entry)**
+## **Forms (UI for Data Entry)**
 
 All form screenshots are stored in:
 
-📁 **Forms Screenshots**
+**Forms Screenshots**
 
 Forms include:
 
@@ -159,7 +129,7 @@ These demonstrate:
 * Relationship consistency
 * Proper normalization
 
-## 🖥️ **UI Components Used**
+## **UI Components Used**
 
 This project uses a wide range of Microsoft Access UI features:
 
@@ -233,6 +203,6 @@ Planned improvements:
 
 ## Author
 
-Utsav Prajapati
-GitHub: [github.com/UtsavPrajapati21](https://github.com/UtsavPrajapati21)
-LinkedIn: *Add your link here*
+* Utsav Prajapati
+* GitHub: [github.com/UtsavPrajapati21](https://github.com/UtsavPrajapati21)
+* LinkedIn: https://www.linkedin.com/in/utsav-prajapati-354ba12b4/
