@@ -88,7 +88,7 @@ Forms include:
 
 All report screenshots are in:
 
-**[Reports Screenshots](https://github.com/UtsavPrajapati21/Convenience_Store__Database/tree/main/Reports%20Screenshots)
+[Reports Screenshots](https://github.com/UtsavPrajapati21/Convenience_Store__Database/tree/main/Reports%20Screenshots)
 
 Reports include:
 
@@ -103,7 +103,7 @@ Reports include:
 
 Screenshot of macros is stored in:
 
-**[Macros Screenshots](https://github.com/UtsavPrajapati21/Convenience_Store__Database/tree/main/Macros%20Screenshots)
+[Macros Screenshots](https://github.com/UtsavPrajapati21/Convenience_Store__Database/tree/main/Macros%20Screenshots)
 
 Macros used:
 
@@ -118,7 +118,7 @@ These provide quick automation for common user actions.
 
 All table structure screenshots are stored in:
 
-**[Tables Screenshots](https://github.com/UtsavPrajapati21/Convenience_Store__Database/tree/main/Tables%20Screenshots)
+[Tables Screenshots](https://github.com/UtsavPrajapati21/Convenience_Store__Database/tree/main/Tables%20Screenshots)
 
 These demonstrate:
 
@@ -197,7 +197,6 @@ Planned improvements:
 * Add a Python front-end using Flask
 * Build REST API endpoints for each table
 
----
 
 ## Author
 
