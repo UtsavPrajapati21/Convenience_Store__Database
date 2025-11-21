@@ -69,7 +69,7 @@ Includes:
 
 All form screenshots are stored in:
 
-**[Forms Screenshots](Forms_Screenshots)**
+**[Forms Screenshots](https://github.com/UtsavPrajapati21/Convenience_Store__Database/tree/main/Forms%20Screenshots)**
 
 Forms include:
 
